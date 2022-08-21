@@ -1,0 +1,35 @@
+My private key: cVtSh4gTNUTp2XBjJo2FtDmJp9Tmt12BFSEKEi4rrE8YxQj43D61
+Address: n2dD1Du4ZZKFiLq8g3EaXQhwUHhtfprgLu
+
+tx: 60f2322678dcbd8ac3aca4fa30ef0cd7d3c10ccc7913bd292c7a5499fec05a3f
+"hash": "c84f49dd740db9735ac3f301517151bfea3bf4802f7311774439f9768be39be9"
+
+Alice secret key BTC: cVYzJgkCDEaqW8wRhLWTeGVkSySmqqjt6WqX6yx9fXQ6fuHfLLXN
+Address: mu9xoB5ReMAUDPhwN5LLSQTmUCa8xPMF7V
+
+tx: 781e3814a63872ef8dcd18629770acbd58c055020beb814e9287c710da290e80
+"hash": "a230d27decda6d952927b0e42c80f1a0dcbb3184e62f7826c0ed52e1235a73e6"
+
+Bob secret key BTC: cQ3HSxu11TQcmFP63Zy73f4p2ioEavEiJwZbWZ8FSw2qGoUeGhwq
+Address: mvnTC9Mje6eVRWsr3nPiu2LwxptxLKcneg
+
+token = c5fb3622e4ff443296d30d78654ca769
+
+Alice BCY:
+{
+  "private": "c527635a85bfe389e4cf26d412cf003d2128290d4acecb4875feaed4465028a6",
+  "public": "03bf026ce73406962cb7bd2d8399c8ecff50be0167c383052788a69198cc086447",
+  "address": "CBrimLeWRnKpMY23b8Qnxjye7X2hFLRxaU",
+  "wif": "BuwGjeipQnjADuurr2HpmbWt1xWWmHSBCAZtidNENCk7kSN1BVnq"
+}
+
+Bob BCY:
+{
+  "private": "f86cba7b7b61f928ac3c209b2e10ce013eeaad5854fe86942633ebc906787e4f",
+  "public": "027d21fe15c86aca82eef05445aef830e6ebba195ff3e85bf8c9bb9e9d44d53c22",
+  "address": "CDEvwCSQeqamVx97Kx1PnU7KErsg3oU5vV",
+  "wif": "BwewErVztwRcV1FYYHjn7spHNm6NWhNpztyzP3nJABetdJv8JyCG"
+}
+
+"tx_ref": "79e44dd0a9f2889a40531723a1c280d0cd2aaae55c1c2c68e357a993da905d47"
+"hash": "af18277e5bf7cb0d7f7a6b5e27c353ffb4b507e335c814b369e8d02fb80832d3"

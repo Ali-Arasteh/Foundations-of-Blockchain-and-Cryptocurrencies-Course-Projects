@@ -1,0 +1,14 @@
+creation of Voting pending...
+ [block:1 txIndex:0] from: 0x3B4...5fFC0to: Voting.(constructor)value: 0 weidata: 0x608...00003logs: 0hash: 0x61b...2554d
+ status	true Transaction mined and execution succeed
+ transaction hash	0x61b68814d418e968015d855b917958276304417e52fb5303675bfba9a3d2554d 
+ from	0x3B4cAE73b9c60d345823E4B0a9b6aB4d11c5fFC0 
+ to	Voting.(constructor) 
+ gas	578466 gas 
+ transaction cost	578466 gas 
+ hash	0x61b68814d418e968015d855b917958276304417e52fb5303675bfba9a3d2554d 
+ input	0x608...00003 
+ decoded input	{ "uint8[] candidateIds": [ 0, 1, 2, 3 ] } 
+ decoded output	 - 
+ logs	[]  
+ value	0 wei
